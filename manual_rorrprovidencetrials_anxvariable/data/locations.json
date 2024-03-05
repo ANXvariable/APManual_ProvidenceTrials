@@ -8,14 +8,44 @@
 	},
 	{
 		"region": "Providence Trials",
-		"name": "A Colossal Feat - Goal Complete!",
+		"name": "E4 - A Colossal Feat - Goal Complete!",
 		"category": ["Commando Trials"],
-		"requires": "|Commando|"
+		"requires": "|Commando| AND ( |E5 Key| OR |E3 Key| )"
 	},
 	{
-		"name": "A Colossal Feat - Gold Rank Achieved!",
+		"name": "E4 - A Colossal Feat - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Commando Trials","Crowns Enabled"],
+		"requires": "|Commando| AND ( |E5 Key| OR |E3 Key| )"
+	},
+	{
+		"name": "E5 - Slide to the Finish! - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials"],
-		"requires": "|Commando|"
+		"requires": "|Commando| AND |E4 Key|"
+	},
+	{
+		"name": "E5 - Slide to the Finish! - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Commando Trials","Crowns Enabled"],
+		"requires": "|Commando| AND |E4 Key|"
+	},
+	{
+		"name": "E3 - Brave Heart, Steady Hand - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Commando Trials"],
+		"requires": "|Commando| AND |E4 Key|"
+	},
+	{
+		"name": "E3 - Brave Heart, Steady Hand - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Commando Trials","Crowns Enabled"],
+		"requires": "|Commando| AND |E4 Key|"
+	},
+	{
+		"name": "All Required Trials Cleared!",
+		"region": "Providence Trials",
+		"category": ["Judgement"],
+		"requires": []
 	}
 ]
