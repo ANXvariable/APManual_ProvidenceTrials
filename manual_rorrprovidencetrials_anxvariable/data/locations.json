@@ -1,0 +1,21 @@
+[
+	{
+		"victory": true,
+		"name": "Judgement - Slay Providence",
+		"region": "Providence Trials",
+		"category": ["Judgement"],
+		"requires": "|Judgement Key|"
+	},
+	{
+		"region": "Providence Trials",
+		"name": "A Colossal Feat - Goal Complete!",
+		"category": ["Commando Trials"],
+		"requires": "|Commando|"
+	},
+	{
+		"name": "A Colossal Feat - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Commando Trials"],
+		"requires": "|Commando|"
+	}
+]

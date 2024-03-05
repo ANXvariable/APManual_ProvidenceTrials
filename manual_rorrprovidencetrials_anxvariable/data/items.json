@@ -1,0 +1,20 @@
+[
+	{
+		"count":1,
+		"name": "Judgement Key",
+		"category": ["Game Winnium"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Time Warp Trap (2%)",
+		"category": ["Traps"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Commando",
+		"category": ["Survivors"],
+		"progression": true
+	}
+]

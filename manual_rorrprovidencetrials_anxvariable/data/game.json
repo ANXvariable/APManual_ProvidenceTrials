@@ -1,0 +1,13 @@
+{
+	"game": "RoRRProvidenceTrials",
+	"creator": "ANXvariable",
+	"filler_item_name": "Experience",
+	"starting_items": [
+        {
+          "items": [
+                "Commando"
+              ],
+        "random": 1
+        }
+      ]
+}
