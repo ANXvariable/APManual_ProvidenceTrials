@@ -13,20 +13,38 @@
 	},
 	{
 		"count":1,
-		"name": "E4 Key",
-		"category": ["Stage Keys"],
+		"name": "Key - E3, E5, D4, F4",
+		"category": ["Trial Keys"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "E5 Key",
-		"category": ["Stage Keys"],
+		"name": "Key - E4, E6, D5, F5",
+		"category": ["Trial Keys"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "E3 Key",
-		"category": ["Stage Keys"],
+		"name": "Key - E2, E4, D3, F3",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - D4, D6, C5, E5",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Huntress",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - D3, D5, C4, E4",
+		"category": ["Trial Keys"],
 		"progression": true
 	}
 ]
