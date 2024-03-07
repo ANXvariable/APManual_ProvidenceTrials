@@ -10,43 +10,73 @@
 		"region": "Providence Trials",
 		"name": "E4 - A Colossal Feat - Goal Complete!",
 		"category": ["Commando Trials"],
-		"requires": "|Commando| AND ( |E5 Key| OR |E3 Key| )"
+		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - E2, E4, D3, F3| OR |Key - D3, D5, C4, E4| )"
 	},
 	{
 		"name": "E4 - A Colossal Feat - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials","Crowns Enabled"],
-		"requires": "|Commando| AND ( |E5 Key| OR |E3 Key| )"
+		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - E2, E4, D3, F3| OR |Key - D3, D5, C4, E4| )"
 	},
 	{
 		"name": "E5 - Slide to the Finish! - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials"],
-		"requires": "|Commando| AND |E4 Key|"
+		"requires": "|Commando| AND ( |Key - E3, E5, D4, F4| OR |Key - D4, D6, C5, E5| )"
 	},
 	{
 		"name": "E5 - Slide to the Finish! - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials","Crowns Enabled"],
-		"requires": "|Commando| AND |E4 Key|"
+		"requires": "|Commando| AND ( |Key - E3, E5, D4, F4| OR |Key - D4, D6, C5, E5| )"
 	},
 	{
 		"name": "E3 - Brave Heart, Steady Hand - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials"],
-		"requires": "|Commando| AND |E4 Key|"
+		"requires": "|Commando| AND |Key - E3, E5, D4, F4|"
 	},
 	{
 		"name": "E3 - Brave Heart, Steady Hand - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials","Crowns Enabled"],
-		"requires": "|Commando| AND |E4 Key|"
+		"requires": "|Commando| AND |Key - E3, E5, D4, F4|"
+	},
+	{
+		"name": "D5 - S.O.S - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Commando Trials"],
+		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| )"
+	},
+	{
+		"name": "D5 - S.O.S - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Commando Trials","Crowns Enabled"],
+		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| )"
+	},
+	{
+		"name": "D4 - Piercing Space and Time - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Huntress Trials"],
+		"requires": "|Huntress| AND ( |Key - D4, D6, C5, E5| OR |Key - E3, E5, D4, F4| )"
+	},
+	{
+		"name": "D4 - Piercing Space and Time - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Huntress Trials","Crowns Enabled"],
+		"requires": "|Huntress| AND ( |Key - D4, D6, C5, E5| OR |Key - E3, E5, D4, F4| )"
 	},
 	{
 		"name": "All Required Trials Cleared!",
 		"region": "Providence Trials",
 		"category": ["Judgement"],
-		"requires": [],
+		"requires": "|@Trial Keys| AND |@Survivors|",
 		"place_item": ["Judgement Key"]
+	},
+	{
+		"name": "dummy",
+		"region": "Providence Trials",
+		"category": ["dummy"],
+		"requires": []
 	}
 ]
