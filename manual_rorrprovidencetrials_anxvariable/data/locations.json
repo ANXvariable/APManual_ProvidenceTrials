@@ -10,13 +10,13 @@
 		"region": "Providence Trials",
 		"name": "E4 - A Colossal Feat - Goal Complete!",
 		"category": ["Commando Trials"],
-		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - E2, E4, D3, F3| OR |Key - D3, D5, C4, E4| )"
+		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - E2, E4, D3, F3| OR |Key - D3, D5, C4, E4| OR |Key - F3, F5, E4, G4| )"
 	},
 	{
 		"name": "E4 - A Colossal Feat - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials","Crowns Enabled"],
-		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - E2, E4, D3, F3| OR |Key - D3, D5, C4, E4| )"
+		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - E2, E4, D3, F3| OR |Key - D3, D5, C4, E4| OR |Key - F3, F5, E4, G4| )"
 	},
 	{
 		"name": "E5 - Slide to the Finish! - Goal Complete!",
@@ -43,13 +43,13 @@
 		"requires": "|Commando| AND |Key - E3, E5, D4, F4|"
 	},
 	{
-		"name": "D5 - S.O.S - Goal Complete!",
+		"name": "D5 - S.O.S. - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials"],
 		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| )"
 	},
 	{
-		"name": "D5 - S.O.S - Gold Rank Achieved!",
+		"name": "D5 - S.O.S. - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials","Crowns Enabled"],
 		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| )"
@@ -70,7 +70,7 @@
 		"name": "All Required Trials Cleared!",
 		"region": "Providence Trials",
 		"category": ["Judgement"],
-		"requires": "|@Trial Keys| AND |@Survivors|",
+		"requires": "|@Trial Keys:ALL| AND |@Survivors:ALL|",
 		"place_item": ["Judgement Key"]
 	},
 	{
@@ -78,5 +78,17 @@
 		"region": "Providence Trials",
 		"category": ["dummy"],
 		"requires": []
+	},
+	{
+		"name": "F4 - Endless Stand-Off - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Bandit Trials"],
+		"requires": "|Bandit| AND ( |Key - E3, E5, D4, F4| )"
+	},
+	{
+		"name": "F4 - Endless Stand-Off - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Bandit Trials","Crowns Enabled"],
+		"requires": "|Bandit| AND ( |Key - E3, E5, D4, F4| )"
 	}
 ]

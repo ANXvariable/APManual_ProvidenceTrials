@@ -46,5 +46,17 @@
 		"name": "Key - D3, D5, C4, E4",
 		"category": ["Trial Keys"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bandit",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - F3, F5, E4, G4",
+		"category": ["Trial Keys"],
+		"progression": true
 	}
 ]
