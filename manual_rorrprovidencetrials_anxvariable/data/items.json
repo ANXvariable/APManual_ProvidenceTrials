@@ -58,5 +58,71 @@
 		"name": "Key - F3, F5, E4, G4",
 		"category": ["Trial Keys"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Artificer",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - E5, E7, D6, F6",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sniper",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - F4, F6, E5, G5",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - G3, G5, F4, H4",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - F2, F4, E3, G3",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Enforcer",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - E3, D2, F2",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Acrid",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - D2, D4, C3, E3",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - C3, C5, B4, D4",
+		"category": ["Trial Keys"],
+		"progression": true
 	}
 ]
