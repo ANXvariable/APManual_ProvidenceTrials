@@ -124,5 +124,95 @@
 		"name": "Key - C3, C5, B4, D4",
 		"category": ["Trial Keys"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - E6, D7, F7",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - F5, F7, E6, G6",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - G4, G6, F5, H5",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drifter",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - H3, H5, G4, I4",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Engineer",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - G2, G4, F3, H3",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - F1, F3, E2, G2",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - D1, D3, C2, E2",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - C2, C4, B3, D3",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "HAN-D",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - B3, B5, A4, C4",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - C4, C6, B5, D5",
+		"category": ["Trial Keys"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "CHEF",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Key - D5, D7, C6, E6",
+		"category": ["Trial Keys"],
+		"progression": true
 	}
 ]

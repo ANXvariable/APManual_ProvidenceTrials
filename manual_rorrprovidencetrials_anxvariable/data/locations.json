@@ -46,13 +46,13 @@
 		"name": "D5 - S.O.S. - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials"],
-		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - D3, D5, C4, E4| )"
+		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - D3, D5, C4, E4| OR |Key - C4, C6, B5, D5| OR |Key - D5, D7, C6, E6| )"
 	},
 	{
 		"name": "D5 - S.O.S. - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Commando Trials","Crowns Enabled"],
-		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - D3, D5, C4, E4| )"
+		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - D3, D5, C4, E4| OR |Key - C4, C6, B5, D5| OR |Key - D5, D7, C6, E6| )"
 	},
 	{
 		"name": "D4 - Piercing Space and Time - Goal Complete!",
@@ -95,84 +95,216 @@
 		"name": "E6 - In The Clouds - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Artificer Trials"],
-		"requires": "|Artificer| AND ( |Key - E4, E6, D5, F5| )"
+		"requires": "|Artificer| AND ( |Key - E4, E6, D5, F5| OR |Key - E6, D7, F7| OR |Key - F5, F7, E6, G6| OR |Key - D5, D7, C6, E6| )"
 	},
 	{
 		"region": "Providence Trials",
 		"name": "E6 - In The Clouds - Gold Rank Achieved!",
 		"category": ["Artificer Trials","Crowns Enabled"],
-		"requires": "|Artificer| AND ( |Key - E4, E6, D5, F5| )"
+		"requires": "|Artificer| AND ( |Key - E4, E6, D5, F5| OR |Key - E6, D7, F7| OR |Key - F5, F7, E6, G6| OR |Key - D5, D7, C6, E6| )"
 	},
 	{
 		"name": "F5 - Lone Wolf - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Sniper Trials"],
-		"requires": "|Sniper| AND ( |Key - E4, E6, D5, F5| OR |Key - F3, F5, E4, G4| )"
+		"requires": "|Sniper| AND ( |Key - E4, E6, D5, F5| OR |Key - F3, F5, E4, G4| OR |Key - F5, F7, E6, G6| OR |Key - G4, G6, F5, H5| )"
 	},
 	{
 		"name": "F5 - Lone Wolf - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Sniper Trials","Crowns Enabled"],
-		"requires": "|Sniper| AND ( |Key - E4, E6, D5, F5| OR |Key - F3, F5, E4, G4| )"
+		"requires": "|Sniper| AND ( |Key - E4, E6, D5, F5| OR |Key - F3, F5, E4, G4| OR |Key - F5, F7, E6, G6| OR |Key - G4, G6, F5, H5| )"
 	},
 	{
 		"name": "G4 - Highway Robbery - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Bandit Trials"],
-		"requires": "|Bandit| AND ( |Key - F3, F5, E4, G4| )"
+		"requires": "|Bandit| AND ( |Key - F3, F5, E4, G4| OR |Key - G2, G4, F3, H3| OR |Key - G4, G6, F5, H5| OR |Key - H3, H5, G4, I4| )"
 	},
 	{
 		"name": "G4 - Highway Robbery - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Bandit Trials","Crowns Enabled"],
-		"requires": "|Bandit| AND ( |Key - F3, F5, E4, G4| )"
+		"requires": "|Bandit| AND ( |Key - F3, F5, E4, G4| OR |Key - G2, G4, F3, H3| OR |Key - G4, G6, F5, H5| OR |Key - H3, H5, G4, I4| )"
 	},
 	{
 		"name": "F3 - Castle of Memories - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Bandit Trials"],
-		"requires": "|Bandit| AND ( |Key - F3, F5, E4, G4| OR |Key - E2, E4, D3, F3| )"
+		"requires": "|Bandit| AND ( |Key - F3, F5, E4, G4| OR |Key - E2, E4, D3, F3| OR |Key - F1, F3, E2, G2| OR |Key - G2, G4, F3, H3| )"
 	},
 	{
 		"name": "F3 - Castle of Memories - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Bandit Trials","Crowns Enabled"],
-		"requires": "|Bandit| AND ( |Key - F3, F5, E4, G4| OR |Key - E2, E4, D3, F3| )"
+		"requires": "|Bandit| AND ( |Key - F3, F5, E4, G4| OR |Key - E2, E4, D3, F3| OR |Key - F1, F3, E2, G2| OR |Key - G2, G4, F3, H3| )"
 	},
 	{
 		"name": "E2 - Specimen Sampling - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Enforcer Trials"],
-		"requires": "|Enforcer| AND ( |Key - E2, E4, D3, F3| )"
+		"requires": "|Enforcer| AND ( |Key - E2, E4, D3, F3| OR |Key - F1, F3, E2, G2| OR |Key - D1, D3, C2, E2| )"
 	},
 	{
 		"region": "Providence Trials",
 		"name": "E2 - Specimen Sampling - Gold Rank Achieved!",
 		"category": ["Enforcer Trials","Crowns Enabled"],
-		"requires": "|Enforcer| AND ( |Key - E2, E4, D3, F3| )"
+		"requires": "|Enforcer| AND ( |Key - E2, E4, D3, F3| OR |Key - F1, F3, E2, G2| OR |Key - D1, D3, C2, E2| )"
 	},
 	{
 		"name": "D3 - A Toxic Path - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Acrid Trials"],
-		"requires": "|Acrid| AND ( |Key - D3, D5, C4, E4| OR |Key - E2, E4, D3, F3| )"
+		"requires": "|Acrid| AND ( |Key - D3, D5, C4, E4| OR |Key - E2, E4, D3, F3| OR |Key - D1, D3, C2, E2| OR |Key - C2, C4, B3, D3| )"
 	},
 	{
 		"name": "D3 - A Toxic Path - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Acrid Trials","Crowns Enabled"],
-		"requires": "|Acrid| AND ( |Key - D3, D5, C4, E4| OR |Key - E2, E4, D3, F3| )"
+		"requires": "|Acrid| AND ( |Key - D3, D5, C4, E4| OR |Key - E2, E4, D3, F3| OR |Key - D1, D3, C2, E2| OR |Key - C2, C4, B3, D3| )"
 	},
 	{
 		"name": "C4 - Hot-Rope Hop - Goal Complete!",
 		"region": "Providence Trials",
 		"category": ["Huntress Trials"],
-		"requires": "|Huntress| AND ( |Key - D3, D5, C4, E4| )"
+		"requires": "|Huntress| AND ( |Key - D3, D5, C4, E4| OR |Key - C2, C4, B3, D3| OR |Key - B3, B5, A4, C4| OR |Key - C4, C6, B5, D5| )"
 	},
 	{
 		"name": "C4 - Hot-Rope Hop - Gold Rank Achieved!",
 		"region": "Providence Trials",
 		"category": ["Huntress Trials","Crowns Enabled"],
-		"requires": "|Huntress| AND ( |Key - D3, D5, C4, E4| )"
+		"requires": "|Huntress| AND ( |Key - D3, D5, C4, E4| OR |Key - C2, C4, B3, D3| OR |Key - B3, B5, A4, C4| OR |Key - C4, C6, B5, D5| )"
+	},
+	{
+		"name": "E7 - Lightning Strikes Twice - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Artificer Trials"],
+		"requires": "|Artificer| AND ( |Key - E5, E7, D6, F6| )"
+	},
+	{
+		"name": "E7 - Lightning Strikes Twice - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Artificer Trials","Crowns Enabled"],
+		"requires": "|Artificer| AND ( |Key - E5, E7, D6, F6| )"
+	},
+	{
+		"name": "F6 - Bullseyes Only - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Sniper Trials"],
+		"requires": "|Sniper| AND ( |Key - E5, E7, D6, F6| OR |Key - F4, F6, E5, G5| )"
+	},
+	{
+		"name": "F6 - Bullseyes Only - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Sniper Trials","Crowns Enabled"],
+		"requires": "|Sniper| AND ( |Key - E5, E7, D6, F6| OR |Key - F4, F6, E5, G5| )"
+	},
+	{
+		"name": "G5 - Meteor Showers - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Sniper Trials"],
+		"requires": "|Sniper| AND ( |Key - G3, G5, F4, H4| OR |Key - F4, F6, E5, G5| )"
+	},
+	{
+		"name": "G5 - Meteor Showers - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Sniper Trials","Crowns Enabled"],
+		"requires": "|Sniper| AND ( |Key - G3, G5, F4, H4| OR |Key - F4, F6, E5, G5| )"
+	},
+	{
+		"name": "H4 - A Duplicator?! - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Drifter Trials"],
+		"requires": "|Drifter| AND ( |Key - G3, G5, F4, H4| )"
+	},
+	{
+		"name": "H4 - A Duplicator?! - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Drifter Trials","Crowns Enabled"],
+		"requires": "|Drifter| AND ( |Key - G3, G5, F4, H4| )"
+	},
+	{
+		"name": "G3 - From All Angles - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Engineer Trials"],
+		"requires": "|Engineer| AND ( |Key - G3, G5, F4, H4| OR |Key - F2, F4, E3, G3| )"
+	},
+	{
+		"name": "G3 - From All Angles - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Engineer Trials","Crowns Enabled"],
+		"requires": "|Engineer| AND ( |Key - G3, G5, F4, H4| OR |Key - F2, F4, E3, G3| )"
+	},
+	{
+		"name": "F2 - Inner Demons - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Enforcer Trials"],
+		"requires": "|Enforcer| AND ( |Key - F2, F4, E3, G3| OR |Key - E3, D2, F2| )"
+	},
+	{
+		"name": "F2 - Inner Demons - Gold Rank Achieved",
+		"region": "Providence Trials",
+		"category": ["Enforcer Trials","Crowns Enabled"],
+		"requires": "|Enforcer| AND ( |Key - F2, F4, E3, G3| OR |Key - E3, D2, F2| )"
+	},
+	{
+		"name": "D2 - Scavenger Hunt - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Enforcer Trials"],
+		"requires": "|Enforcer| AND ( |Key - D2, D4, C3, E3| OR |Key - E3, D2, F2| )"
+	},
+	{
+		"name": "D2 - Scavenger Hunt - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Enforcer Trials","Crowns Enabled"],
+		"requires": "|Enforcer| AND ( |Key - D2, D4, C3, E3| OR |Key - E3, D2, F2| )"
+	},
+	{
+		"name": "C3 - Caustic Climb - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Acrid Trials"],
+		"requires": "|Acrid| AND ( |Key - C3, C5, B4, D4| OR |Key - D2, D4, C3, E3| )"
+	},
+	{
+		"name": "C3 - Caustic Climb - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Acrid Trials","Crowns Enabled"],
+		"requires": "|Acrid| AND ( |Key - C3, C5, B4, D4| OR |Key - D2, D4, C3, E3| )"
+	},
+	{
+		"region": "Providence Trials",
+		"name": "B4 - Think of the Children - Goal Complete!",
+		"category": ["HAN-D Trials"],
+		"requires": "|HAN-D| AND ( |Key - C3, C5, B4, D4| )"
+	},
+	{
+		"region": "Providence Trials",
+		"name": "B4 - Think of the Children - Gold Rank Achieved!",
+		"category": ["HAN-D Trials","Crowns Enabled"],
+		"requires": "|HAN-D| AND ( |Key - C3, C5, B4, D4| )"
+	},
+	{
+		"name": "C5 - Blades in the Wind - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["Huntress Trials"],
+		"requires": "|Huntress| AND ( |Key - D4, D6, C5, E5| OR |Key - C3, C5, B4, D4| )"
+	},
+	{
+		"name": "C5 - Blades in the Wind - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["Huntress Trials","Crowns Enabled"],
+		"requires": "|Huntress| AND ( |Key - D4, D6, C5, E5| OR |Key - C3, C5, B4, D4| )"
+	},
+	{
+		"name": "D6 - Kited Blades - Goal Complete!",
+		"region": "Providence Trials",
+		"category": ["CHEF Trials"],
+		"requires": "|CHEF| AND ( |Key - D4, D6, C5, E5| OR |Key - E5, E7, D6, F6| )"
+	},
+	{
+		"name": "D6 - Kited Blades - Gold Rank Achieved!",
+		"region": "Providence Trials",
+		"category": ["CHEF Trials","Crowns Enabled"],
+		"requires": "|CHEF| AND ( |Key - D4, D6, C5, E5| OR |Key - E5, E7, D6, F6| )"
 	}
 ]
