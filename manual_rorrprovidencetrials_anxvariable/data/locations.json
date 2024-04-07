@@ -300,5 +300,293 @@
 		"name": "Kited Blades - Gold Rank Achieved!",
 		"category": ["CHEF Trials","Crowns Enabled"],
 		"requires": "|CHEF|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Danger Orbits - Goal Complete!",
+		"category": ["Artificer Trials"],
+		"requires": "|Artificer|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Danger Orbits - Gold Rank Achieved!",
+		"category": ["Artificer Trials","Crowns Enabled"],
+		"requires": "|Artificer|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Go On Without Me - Goal Complete!",
+		"category": ["Enforcer Trials"],
+		"requires": "|Enforcer|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Go On Without Me - Gold Rank Achieved!",
+		"category": ["Enforcer Trials","Crowns Enabled"],
+		"requires": "|Enforcer|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Perilous Descent - Goal Complete!",
+		"category": ["Drifter Trials"],
+		"requires": "|Drifter|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Perilous Descent - Gold Rank Achieved!",
+		"category": ["Drifter Trials","Crowns Enabled"],
+		"requires": "|Drifter|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Equivalent Exchange - Goal Complete!",
+		"category": ["Drifter Trials"],
+		"requires": "|Drifter|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Equivalent Exchange - Gold Rank Achieved!",
+		"category": ["Drifter Trials","Crowns Enabled"],
+		"requires": "|Drifter|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Scorching Heart - Goal Complete!",
+		"category": ["Miner Trials"],
+		"requires": "|Miner|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Scorching Heart - Gold Rank Achieved!",
+		"category": ["Miner Trials","Crowns Enabled"],
+		"requires": "|Miner|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Drowning in Research - Goal Complete!",
+		"category": ["Engineer Trials"],
+		"requires": "|Engineer|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Drowning in Research - Gold Rank Achieved!",
+		"category": ["Engineer Trials","Crowns Enabled"],
+		"requires": "|Engineer|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Race to the Finish! - Goal Complete!",
+		"category": ["Pilot Trials"],
+		"requires": "|Pilot|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Race to the Finish! - Gold Rank Achieved!",
+		"category": ["Pilot Trials","Crowns Enabled"],
+		"requires": "|Pilot|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Crash Landing - Goal Complete!",
+		"category": ["Loader Trials"],
+		"requires": "|Loader|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Crash Landing - Gold Rank Achieved!",
+		"category": ["Loader Trials","Crowns Enabled"],
+		"requires": "|Loader|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Ruins of the Future - Goal Complete!",
+		"category": ["Loader Trials"],
+		"requires": "|Loader|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Ruins of the Future - Gold Rank Achieved!",
+		"category": ["Loader Trials","Crowns Enabled"],
+		"requires": "|Loader|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Main Systems Offline - Goal Complete!",
+		"category": ["HAN-D Trials"],
+		"requires": "|HAN-D|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Main Systems Offline - Gold Rank Achieved!",
+		"category": ["HAN-D Trials","Crowns Enabled"],
+		"requires": "|HAN-D|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Uncontrolled Experiment - Goal Complete!",
+		"category": ["Acrid Trials"],
+		"requires": "|Acrid|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Uncontrolled Experiment - Gold Rank Achieved!",
+		"category": ["Acrid Trials","Crowns Enabled"],
+		"requires": "|Acrid|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Routine Maintenance - Goal Complete!",
+		"category": ["HAN-D Trials"],
+		"requires": "|HAN-D|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "Routine Maintenance - Gold Rank Achieved!",
+		"category": ["HAN-D Trials","Crowns Enabled"],
+		"requires": "|HAN-D|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "The Right Ingredients - Goal Complete!",
+		"category": ["CHEF Trials"],
+		"requires": "|CHEF|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "The Right Ingredients - Gold Rank Achieved!",
+		"category": ["CHEF Trials","Crowns Enabled"],
+		"requires": "|CHEF|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "A Fresh Harvest - Goal Complete!",
+		"category": ["CHEF Trials"],
+		"requires": "|CHEF|"
+	},
+	{
+		"region": "Layer 5",
+		"name": "A Fresh Harvest - Gold Rank Achieved!",
+		"category": ["CHEF Trials","Crowns Enabled"],
+		"requires": "|CHEF|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Gup Sorting? - Goal Complete!",
+		"category": ["Miner Trials"],
+		"requires": "|Miner|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Gup Sorting? - Gold Rank Achieved!",
+		"category": ["Miner Trials","Crowns Enabled"],
+		"requires": "|Miner|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Break the Targets! - Goal Complete!",
+		"category": ["Miner Trials"],
+		"requires": "|Miner|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Break the Targets! - Gold Rank Achieved!",
+		"category": ["Miner Trials","Crowns Enabled"],
+		"requires": "|Miner|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Get Off My Lawn! - Goal Complete!",
+		"category": ["Engineer Trials"],
+		"requires": "|Engineer|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Get Off My Lawn! - Gold Rank Achieved!",
+		"category": ["Engineer Trials","Crowns Enabled"],
+		"requires": "|Engineer|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Emergency Ejection - Goal Complete!",
+		"category": ["Pilot Trials"],
+		"requires": "|Pilot|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Emergency Ejection - Gold Rank Achieved!",
+		"category": ["Pilot Trials","Crowns Enabled"],
+		"requires": "|Pilot|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Juggling Priorities - Goal Complete!",
+		"category": ["Engineer Trials"],
+		"requires": "|Engineer|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Juggling Priorities - Gold Rank Achieved!",
+		"category": ["Engineer Trials","Crowns Enabled"],
+		"requires": "|Engineer|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Colossal Lift - Goal Complete!",
+		"category": ["Loader Trials"],
+		"requires": "|Loader|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Colossal Lift - Gold Rank Achieved!",
+		"category": ["Loader Trials","Crowns Enabled"],
+		"requires": "|Loader|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Shadows of the Past - Goal Complete!",
+		"category": ["Mercenary Trials"],
+		"requires": "|Mercenary|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Shadows of the Past - Gold Rank Achieved!",
+		"category": ["Mercenary Trials","Crowns Enabled"],
+		"requires": "|Mercenary|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Assassination Contract - Goal Complete!",
+		"category": ["Mercenary Trials"],
+		"requires": "|Mercenary|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Assassination Contract - Gold Rank Achieved!",
+		"category": ["Mercenary Trials","Crowns Enabled"],
+		"requires": "|Mercenary|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Don't Think, Feel - Goal Complete!",
+		"category": ["Mercenary Trials"],
+		"requires": "|Mercenary|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "Don't Think, Feel - Gold Rank Achieved!",
+		"category": ["Mercenary Trials","Crowns Enabled"],
+		"requires": "|Mercenary|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "A Rung Above - Goal Complete!",
+		"category": ["Commando Trials"],
+		"requires": "|Commando|"
+	},
+	{
+		"region": "Layer 6",
+		"name": "A Rung Above - Gold Rank Achieved!",
+		"category": ["Commando Trials","Crowns Enabled"],
+		"requires": "|Commando|"
 	}
 ]
