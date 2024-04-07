@@ -2,93 +2,303 @@
 	{
 		"victory": true,
 		"name": "Judgement - Slay Providence",
-		"region": "Providence Trials",
+		"region": "Layer 6",
 		"category": ["Judgement"],
 		"requires": "|Judgement Key|"
 	},
 	{
-		"region": "Providence Trials",
-		"name": "E4 - A Colossal Feat - Goal Complete!",
+		"region": "Layer 1",
+		"name": "A Colossal Feat - Goal Complete!",
 		"category": ["Commando Trials"],
-		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - E2, E4, D3, F3| OR |Key - D3, D5, C4, E4| OR |Key - F3, F5, E4, G4| )"
-	},
-	{
-		"name": "E4 - A Colossal Feat - Gold Rank Achieved!",
-		"region": "Providence Trials",
-		"category": ["Commando Trials","Crowns Enabled"],
-		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| OR |Key - E2, E4, D3, F3| OR |Key - D3, D5, C4, E4| OR |Key - F3, F5, E4, G4| )"
-	},
-	{
-		"name": "E5 - Slide to the Finish! - Goal Complete!",
-		"region": "Providence Trials",
-		"category": ["Commando Trials"],
-		"requires": "|Commando| AND ( |Key - E3, E5, D4, F4| OR |Key - D4, D6, C5, E5| )"
-	},
-	{
-		"name": "E5 - Slide to the Finish! - Gold Rank Achieved!",
-		"region": "Providence Trials",
-		"category": ["Commando Trials","Crowns Enabled"],
-		"requires": "|Commando| AND ( |Key - E3, E5, D4, F4| OR |Key - D4, D6, C5, E5| )"
-	},
-	{
-		"name": "E3 - Brave Heart, Steady Hand - Goal Complete!",
-		"region": "Providence Trials",
-		"category": ["Commando Trials"],
-		"requires": "|Commando| AND |Key - E3, E5, D4, F4|"
-	},
-	{
-		"name": "E3 - Brave Heart, Steady Hand - Gold Rank Achieved!",
-		"region": "Providence Trials",
-		"category": ["Commando Trials","Crowns Enabled"],
-		"requires": "|Commando| AND |Key - E3, E5, D4, F4|"
-	},
-	{
-		"name": "D5 - S.O.S. - Goal Complete!",
-		"region": "Providence Trials",
-		"category": ["Commando Trials"],
-		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| )"
-	},
-	{
-		"name": "D5 - S.O.S. - Gold Rank Achieved!",
-		"region": "Providence Trials",
-		"category": ["Commando Trials","Crowns Enabled"],
-		"requires": "|Commando| AND ( |Key - E4, E6, D5, F5| )"
-	},
-	{
-		"name": "D4 - Piercing Space and Time - Goal Complete!",
-		"region": "Providence Trials",
-		"category": ["Huntress Trials"],
-		"requires": "|Huntress| AND ( |Key - D4, D6, C5, E5| OR |Key - E3, E5, D4, F4| )"
-	},
-	{
-		"name": "D4 - Piercing Space and Time - Gold Rank Achieved!",
-		"region": "Providence Trials",
-		"category": ["Huntress Trials","Crowns Enabled"],
-		"requires": "|Huntress| AND ( |Key - D4, D6, C5, E5| OR |Key - E3, E5, D4, F4| )"
-	},
-	{
-		"name": "All Required Trials Cleared!",
-		"region": "Providence Trials",
-		"category": ["Judgement"],
-		"requires": "|@Trial Keys:ALL| AND |@Survivors:ALL|",
-		"place_item": ["Judgement Key"]
-	},
-	{
-		"name": "dummy",
-		"region": "Providence Trials",
-		"category": ["dummy"],
 		"requires": []
 	},
 	{
-		"name": "F4 - Endless Stand-Off - Goal Complete!",
-		"region": "Providence Trials",
-		"category": ["Bandit Trials"],
-		"requires": "|Bandit| AND ( |Key - E3, E5, D4, F4| )"
+		"name": "A Colossal Feat - Gold Rank Achieved!",
+		"region": "Layer 1",
+		"category": ["Commando Trials","Crowns Enabled"],
+		"requires": []
 	},
 	{
-		"name": "F4 - Endless Stand-Off - Gold Rank Achieved!",
-		"region": "Providence Trials",
+		"name": "Slide to the Finish! - Goal Complete!",
+		"region": "Layer 2",
+		"category": ["Commando Trials"],
+		"requires": "|Commando|"
+	},
+	{
+		"name": "Slide to the Finish! - Gold Rank Achieved!",
+		"region": "Layer 2",
+		"category": ["Commando Trials","Crowns Enabled"],
+		"requires": "|Commando|"
+	},
+	{
+		"name": "Brave Heart, Steady Hand - Goal Complete!",
+		"region": "Layer 2",
+		"category": ["Commando Trials"],
+		"requires": "|Commando|"
+	},
+	{
+		"name": "Brave Heart, Steady Hand - Gold Rank Achieved!",
+		"region": "Layer 2",
+		"category": ["Commando Trials","Crowns Enabled"],
+		"requires": "|Commando|"
+	},
+	{
+		"name": "S.O.S. - Goal Complete!",
+		"region": "Layer 3",
+		"category": ["Commando Trials"],
+		"requires": "|Commando|"
+	},
+	{
+		"name": "S.O.S. - Gold Rank Achieved!",
+		"region": "Layer 3",
+		"category": ["Commando Trials","Crowns Enabled"],
+		"requires": "|Commando|"
+	},
+	{
+		"name": "Piercing Space and Time - Goal Complete!",
+		"region": "Layer 2",
+		"category": ["Huntress Trials"],
+		"requires": "|Huntress|"
+	},
+	{
+		"name": "Piercing Space and Time - Gold Rank Achieved!",
+		"region": "Layer 2",
+		"category": ["Huntress Trials","Crowns Enabled"],
+		"requires": "|Huntress|"
+	},
+	{
+		"name": "All Required Trials Cleared!",
+		"region": "Layer 6",
+		"category": ["Judgement"],
+		"requires": "|@Trial Layers:ALL| AND |@Survivors:ALL|",
+		"place_item": ["Judgement Key"]
+	},
+	{
+		"name": "Endless Stand-Off - Goal Complete!",
+		"region": "Layer 2",
+		"category": ["Bandit Trials"],
+		"requires": "|Bandit|"
+	},
+	{
+		"name": "Endless Stand-Off - Gold Rank Achieved!",
+		"region": "Layer 2",
 		"category": ["Bandit Trials","Crowns Enabled"],
-		"requires": "|Bandit| AND ( |Key - E3, E5, D4, F4| )"
+		"requires": "|Bandit|"
+	},
+	{
+		"name": "In The Clouds - Goal Complete!",
+		"region": "Layer 3",
+		"category": ["Artificer Trials"],
+		"requires": "|Artificer|"
+	},
+	{
+		"region": "Layer 3",
+		"name": "In The Clouds - Gold Rank Achieved!",
+		"category": ["Artificer Trials","Crowns Enabled"],
+		"requires": "|Artificer|"
+	},
+	{
+		"name": "Lone Wolf - Goal Complete!",
+		"region": "Layer 3",
+		"category": ["Sniper Trials"],
+		"requires": "|Sniper|"
+	},
+	{
+		"name": "Lone Wolf - Gold Rank Achieved!",
+		"region": "Layer 3",
+		"category": ["Sniper Trials","Crowns Enabled"],
+		"requires": "|Sniper|"
+	},
+	{
+		"name": "Highway Robbery - Goal Complete!",
+		"region": "Layer 3",
+		"category": ["Bandit Trials"],
+		"requires": "|Bandit|"
+	},
+	{
+		"name": "Highway Robbery - Gold Rank Achieved!",
+		"region": "Layer 3",
+		"category": ["Bandit Trials","Crowns Enabled"],
+		"requires": "|Bandit|"
+	},
+	{
+		"name": "Castle of Memories - Goal Complete!",
+		"region": "Layer 3",
+		"category": ["Bandit Trials"],
+		"requires": "|Bandit|"
+	},
+	{
+		"name": "Castle of Memories - Gold Rank Achieved!",
+		"region": "Layer 3",
+		"category": ["Bandit Trials","Crowns Enabled"],
+		"requires": "|Bandit|"
+	},
+	{
+		"name": "Specimen Sampling - Goal Complete!",
+		"region": "Layer 3",
+		"category": ["Enforcer Trials"],
+		"requires": "|Enforcer|"
+	},
+	{
+		"region": "Layer 3",
+		"name": "Specimen Sampling - Gold Rank Achieved!",
+		"category": ["Enforcer Trials","Crowns Enabled"],
+		"requires": "|Enforcer|"
+	},
+	{
+		"name": "A Toxic Path - Goal Complete!",
+		"region": "Layer 3",
+		"category": ["Acrid Trials"],
+		"requires": "|Acrid|"
+	},
+	{
+		"name": "A Toxic Path - Gold Rank Achieved!",
+		"region": "Layer 3",
+		"category": ["Acrid Trials","Crowns Enabled"],
+		"requires": "|Acrid|"
+	},
+	{
+		"name": "Hot-Rope Hop - Goal Complete!",
+		"region": "Layer 3",
+		"category": ["Huntress Trials"],
+		"requires": "|Huntress|"
+	},
+	{
+		"name": "Hot-Rope Hop - Gold Rank Achieved!",
+		"region": "Layer 3",
+		"category": ["Huntress Trials","Crowns Enabled"],
+		"requires": "|Huntress|"
+	},
+	{
+		"name": "Lightning Strikes Twice - Goal Complete!",
+		"region": "Layer 4",
+		"category": ["Artificer Trials"],
+		"requires": "|Artificer|"
+	},
+	{
+		"name": "Lightning Strikes Twice - Gold Rank Achieved!",
+		"region": "Layer 4",
+		"category": ["Artificer Trials","Crowns Enabled"],
+		"requires": "|Artificer|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Bullseyes Only - Goal Complete!",
+		"category": ["Sniper Trials"],
+		"requires": "|Sniper|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Bullseyes Only - Gold Rank Achieved!",
+		"category": ["Sniper Trials","Crowns Enabled"],
+		"requires": "|Sniper|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Meteor Showers - Goal Complete!",
+		"category": ["Sniper Trials"],
+		"requires": "|Sniper|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Meteor Showers - Gold Rank Achieved!",
+		"category": ["Sniper Trials","Crowns Enabled"],
+		"requires": "|Sniper|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "A Duplicator?! - Goal Complete!",
+		"category": ["Drifter Trials"],
+		"requires": "|Drifter|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "A Duplicator?! - Gold Rank Achieved!",
+		"category": ["Drifter Trials","Crowns Enabled"],
+		"requires": "|Drifter|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "From All Angles - Goal Complete!",
+		"category": ["Engineer Trials"],
+		"requires": "|Engineer|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "From All Angles - Gold Rank Achieved!",
+		"category": ["Engineer Trials","Crowns Enabled"],
+		"requires": "|Engineer|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Inner Demons - Goal Complete!",
+		"category": ["Enforcer Trials"],
+		"requires": "|Enforcer|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Inner Demons - Gold Rank Achieved!",
+		"category": ["Enforcer Trials","Crowns Enabled"],
+		"requires": "|Enforcer|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Scavenger Hunt - Goal Complete",
+		"category": ["Enforcer Trials"],
+		"requires": "|Enforcer|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Scavenger Hunt - Gold Rank Achieved",
+		"category": ["Enforcer Trials","Crowns Enabled"],
+		"requires": "|Enforcer|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Caustic Climb - Goal Complete!",
+		"category": ["Acrid Trials"],
+		"requires": "|Acrid|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Caustic Climb - Gold Rank Achieved!",
+		"category": ["Acrid Trials","Crowns Enabled"],
+		"requires": "|Acrid|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Think of the Children - Goal Complete!",
+		"category": ["HAN-D Trials"],
+		"requires": "|HAN-D|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Think of the Children - Gold Rank Achieved!",
+		"category": ["HAN-D Trials","Crowns Enabled"],
+		"requires": "|HAN-D|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Blades in the Wind - Goal Complete!",
+		"category": ["Huntress Trials"],
+		"requires": "|Huntress|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Blades in the Wind - Gold Rank Achieved!",
+		"category": ["Huntress Trials","Crowns Enabled"],
+		"requires": "|Huntress|"
+	},
+	{
+		"name": "Kited Blades - Goal Complete!",
+		"region": "Layer 4",
+		"category": ["CHEF Trials"],
+		"requires": "|CHEF|"
+	},
+	{
+		"region": "Layer 4",
+		"name": "Kited Blades - Gold Rank Achieved!",
+		"category": ["CHEF Trials","Crowns Enabled"],
+		"requires": "|CHEF|"
 	}
 ]

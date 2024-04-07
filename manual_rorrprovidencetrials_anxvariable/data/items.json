@@ -13,38 +13,8 @@
 	},
 	{
 		"count":1,
-		"name": "Key - E3, E5, D4, F4",
-		"category": ["Trial Keys"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Key - E4, E6, D5, F5",
-		"category": ["Trial Keys"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Key - E2, E4, D3, F3",
-		"category": ["Trial Keys"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Key - D4, D6, C5, E5",
-		"category": ["Trial Keys"],
-		"progression": true
-	},
-	{
-		"count":1,
 		"name": "Huntress",
 		"category": ["Survivors"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Key - D3, D5, C4, E4",
-		"category": ["Trial Keys"],
 		"progression": true
 	},
 	{
@@ -55,8 +25,80 @@
 	},
 	{
 		"count":1,
-		"name": "Key - F3, F5, E4, G4",
-		"category": ["Trial Keys"],
+		"name": "Artificer",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sniper",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Enforcer",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Acrid",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Progressive Layer",
+		"category": ["Trial Layers"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drifter",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Engineer",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "HAN-D",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "CHEF",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Miner",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pilot",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Loader",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mercenary",
+		"category": ["Survivors"],
 		"progression": true
 	}
 ]

@@ -1,7 +1,27 @@
 {
-	"Providence Trials": 	{
+	"Layer 1": 	{
 		"starting": true,
-		"connects_to": [],
+		"connects_to": ["Layer 2"],
 		"requires": []
+	},
+	"Layer 2": 	{
+		"connects_to": ["Layer 3"],
+		"requires": "|Progressive Layer:1|"
+	},
+	"Layer 3": 	{
+		"connects_to": ["Layer 4"],
+		"requires": "|Progressive Layer:2|"
+	},
+	"Layer 4": 	{
+		"connects_to": ["Layer 5"],
+		"requires": "|Progressive Layer:3|"
+	},
+	"Layer 5": 	{
+		"connects_to": ["Layer 6"],
+		"requires": "|Progressive Layer:4|"
+	},
+	"Layer 6": 	{
+		"connects_to": [],
+		"requires": "|Progressive Layer:5|"
 }
 }
