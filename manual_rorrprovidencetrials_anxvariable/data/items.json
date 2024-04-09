@@ -19,49 +19,13 @@
 	},
 	{
 		"count":1,
-		"name": "Bandit",
-		"category": ["Survivors"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Artificer",
-		"category": ["Survivors"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Sniper",
-		"category": ["Survivors"],
-		"progression": true
-	},
-	{
-		"count":1,
 		"name": "Enforcer",
 		"category": ["Survivors"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Acrid",
-		"category": ["Survivors"],
-		"progression": true
-	},
-	{
-		"count": "5",
-		"name": "Progressive Layer",
-		"category": ["Trial Layers"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Drifter",
-		"category": ["Survivors"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Engineer",
+		"name": "Bandit",
 		"category": ["Survivors"],
 		"progression": true
 	},
@@ -73,7 +37,7 @@
 	},
 	{
 		"count":1,
-		"name": "CHEF",
+		"name": "Engineer",
 		"category": ["Survivors"],
 		"progression": true
 	},
@@ -85,7 +49,19 @@
 	},
 	{
 		"count":1,
-		"name": "Pilot",
+		"name": "Sniper",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Acrid",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mercenary",
 		"category": ["Survivors"],
 		"progression": true
 	},
@@ -97,8 +73,38 @@
 	},
 	{
 		"count":1,
-		"name": "Mercenary",
+		"name": "CHEF",
 		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Pilot",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Artificer",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drifter",
+		"category": ["Survivors"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Progressive Layer",
+		"category": ["Trial Layers"],
+		"progression": true
+	},
+	{
+		"count": "28",
+		"name": "Wisp of Providence",
+		"category": ["McGuffins"],
 		"progression": true
 	}
 ]
