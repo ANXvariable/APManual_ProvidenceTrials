@@ -67,7 +67,7 @@
 		"requires": "|Huntress|"
 	},
 	{
-		"name": "All Required Trials Cleared!",
+		"name": "All Required Wisps Obtained!",
 		"region": "Layer 6",
 		"category": ["Judgement"],
 		"requires": "|@Trial Layers:ALL| AND |@Survivors:ALL| AND |@McGuffins:ALL|",
