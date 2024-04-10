@@ -1,0 +1,6 @@
+{
+    "Crowns Enabled": {
+        "yaml_option": ["enable_crowns"],
+        "hidden": true
+    }
+}
